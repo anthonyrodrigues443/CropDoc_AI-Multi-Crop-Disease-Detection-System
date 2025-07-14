@@ -1,2 +1,2 @@
-# CropDoc_AI-Multi-Crop-Disease-Detection-System
+# CropDoc AI: Multi-Crop Disease Detection System
 AI-powered disease detection system for wheat, rice, corn, potato, and sugarcane crops. Uses computer vision and deep learning to automatically identify and classify common crop diseases from images, helping farmers detect issues early and reduce losses.
