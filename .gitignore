@@ -1,2 +1,5 @@
 #virtual environment
 cropdoc_ai_proj
+
+# secrets
+.env
